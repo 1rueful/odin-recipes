@@ -1,0 +1,30 @@
+* {
+    font-family: 'Courier New', Courier, monospace
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 {
+    background-color: red;
+    color: white;
+}
+
+p {
+    text-align: justify;
+}
+
+ul,
+ol{
+    font-size: 18px;
+}
+
+ul {
+    font-weight: bold;
+}
+
+ul a {
+    font-size: 24px;
+}

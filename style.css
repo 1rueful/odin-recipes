@@ -18,20 +18,18 @@ h1 {
 }
 
 h2 {
-    margin-top: 15px;
+    margin: 16px 0;
     padding: 6px;
 }
 
 p {
-    font-size: 18px;
     text-align: center;
-    margin: 10px;
+    padding: 10px;
 }
 
 ul,
 ol{
-    width: 600px;
-    margin: auto;
+    text-align: center;
 }
 
 ul {
@@ -43,7 +41,7 @@ ul a {
 }
 
 li {
-    margin-top: 15px;
+    padding: 16px;
 }
 
 img {

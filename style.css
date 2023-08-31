@@ -14,9 +14,11 @@ h2 {
 
 h1 {
     text-align: center;
+    margin-bottom: 30px;
 }
 
 h2 {
+    margin-top: 15px;
     padding: 6px;
 }
 
@@ -28,7 +30,8 @@ p {
 
 ul,
 ol{
-    margin: 50px;
+    width: 600px;
+    margin: auto;
 }
 
 ul {
@@ -40,10 +43,14 @@ ul a {
 }
 
 li {
-    margin: 10px;
+    margin-top: 15px;
 }
 
 img {
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+    padding: 10px;
     height: 300px;
     width: 400px;
 }
